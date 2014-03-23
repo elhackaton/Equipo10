@@ -1,4 +1,4 @@
-Proyecto de  Ejemplo
+FISIOMEDIA
 ====================
 
 Componentes del Equipo
@@ -6,25 +6,33 @@ Componentes del Equipo
 
 (Máximo 4 integrantes por grupo)
 
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ Nombre del integrante #1 Hugo Ramos Mira
++ Nombre del integrante #2 David Castillo Redondo
++ Nombre del integrante #3 Ruben Marin Carpio 
++ Nombre del integrante #4 Juanjo Amate Ruiz
 
 Descripción
 -------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+FisioMedia se basa en el seguimiento y evolución de un paciente en el sector de la fisoterapia.
+Está pensado para pacientes con daño cerebral y enfermedades crónicas. Esta apoyado por un fisioterapeuta de la asociación Vivir de daños cerebrales para que pueda seguir día a día la evolución de sus pacientes.
+Nos permite que un paciente evalúe su escala de dolor diario y poder realizar una gráfica de su estado por meses.  
+Ver los ejercicios que le asigne el fisioterapeuta, ver un video de cómo se realiza el ejercicio, añadir notas sobre el ejercicio realizado y marcarlos como realizados para que el fisioterapeuta pueda evaluar al instante su progreso.
+En el apartado del fisioterapeuta podrá ver cómo van realizando sus pacientes los ejercicios, viendo la última vez que se conectó y ejercicio que realizó.
+Podrá añadir nuevos ejercicios que el fisioterapeuta crea adecuados para sus pacientes y añadírseles a los pacientes un calendario interactivo.
+Añadir videos explicativos sobre sus ejercicios para que el paciente pueda seguir cómodamente el ejercicio desde su casa y poder verlo las veces que necesite.
 
 Estado del desarrollo actual
 ----------------------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+El proyecto se encuentra en fase de desarrollo, donde solo se ha realizado la maquetación de la aplicación web y se va hacer una actualización para implementar la base de datos y crear una aplicación totalmente dinámica.
 
 Especificaciones Técnicas
 --------------------------
-+ Lenguajes de programación utilizados
-+ Sistema de bases de datos
-+ Etc...
++ HTML5 + CSS3
++ JavaScript
++ 
 
 Licencia
 ---------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Creative commons
